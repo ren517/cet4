@@ -12,126 +12,126 @@ compose of
 
 ## exception
 
-n. 例外;
-Most of the bulidings are modern, but the quadangle is only exception.
-with the exception of
-除了……之外
-without exception
-无一例外; 一律
+n. 例外;  
+Most of the bulidings are modern, but the quadangle is only exception.  
+with the exception of  
+除了……之外  
+without exception  
+无一例外; 一律 
 
 ## overseas
 
-adv. 在海外; 在外国
-adj. 外国的; 海外的
-We export the goods overseas.
-overseas trade
+adv. 在海外; 在外国  
+adj. 外国的; 海外的  
+We export the goods overseas.  
+overseas trade  
 海外贸易
 
 ## secure
 
-adj. 安全的; 稳固的
-v. 确保
-The safe is secure from theft.
-secure mode
-安全模式
-secure zone
+adj. 安全的; 稳固的  
+v. 确保  
+The safe is secure from theft.  
+secure mode  
+安全模式  
+secure zone  
 安全区
 
 ## crash
 
-n. 碰撞; 猛撞
-v. 碰撞; 坠落
-It was a big crash between the two cars.
-crash down
-坠落
-crash into
+n. 碰撞; 猛撞  
+v. 碰撞; 坠落  
+It was a big crash between the two cars.  
+crash down  
+坠落  
+crash into  
 撞击
 
 ## intend
 
-v. 打算; 想要; 计划
-The boy intends to use the monry he saved to buy a new skateboard.
-intend to do sth
-打算做某事
-intend to be
-打算成为……
+v. 打算; 想要; 计划  
+The boy intends to use the monry he saved to buy a new skateboard.  
+intend to do sth  
+打算做某事  
+intend to be  
+打算成为……  
 
 ## characteristic
 
-n. 特征; 特点
-adj. 典型的; 独特的
-One of the characteristics of corgis is their short legs.
-characteristic of
+n. 特征; 特点  
+adj. 典型的; 独特的  
+One of the characteristics of corgis is their short legs.  
+characteristic of  
 特有的; 表示……特性的
 
 ## define
 
-v. 给……下定义
-Many belives achieveing success defines the American Dream.
-define as
+v. 给……下定义  
+Many belives achieveing success defines the American Dream.  
+define as  
 定义为
 
 ## dissolve
 
-v. (使)解散; 消除
-This tablet dissolves in waters.
-dissolve in
-溶解入
-dissolve away
-消散, 消失
-dissolve into tears
+v. (使)解散; 消除  
+This tablet dissolves in waters.  
+dissolve in  
+溶解入  
+dissolve away  
+消散, 消失  
+dissolve into tears  
 痛哭流涕
 
 ## acknowledge
 
-v. 承认; 感谢
-The boy acknowledged breaking the glass.
-acknowledge receipt
-确认收到
-acknowledge responsibility
+v. 承认; 感谢  
+The boy acknowledged breaking the glass.  
+acknowledge receipt  
+确认收到  
+acknowledge responsibility  
 承认责任
 
 ## illustrate
 
-v. 说明, 解释
-Our manger illustrated the sales with colorful charts.
-illustrate with
+v. 说明, 解释  
+Our manger illustrated the sales with colorful charts.  
+illustrate with  
 用……说明
 
 ## debate
 
-n. 辩论
-v. 辩论
-The debate begins.
-public debate
-公开辩论
-general dabate
+n. 辩论  
+v. 辩论  
+The debate begins.  
+public debate  
+公开辩论  
+general dabate  
 广泛的讨论
 
 ## process
 
-n. 步骤, 过程
-v. 加工; 处理
-Follow the process to create a acute paw-shaped ice cream.
-processed food
+n. 步骤, 过程  
+v. 加工; 处理  
+Follow the process to create a acute paw-shaped ice cream.  
+processed food  
 加工食物
 
 ## stress
 
-n. 压力; 强调
-v. 强调; 使紧张
-He is under a lot of stress because he has so much work to do.
-stress hormones
-应激激素
-stress response
-应激反应
-stress sb. out
+n. 压力; 强调  
+v. 强调; 使紧张  
+He is under a lot of stress because he has so much work to do.  
+stress hormones  
+应激激素  
+stress response  
+应激反应  
+stress sb. out  
 使某人紧张, 使某人焦虑不安
 
 ## innocent
 
-adj. 无辜的, 清白的; 天真的
-n. 天真无邪的人
-The innocent smiles of the close friends displayed their pure happiness.
-be innocent of
+adj. 无辜的, 清白的; 天真的  
+n. 天真无邪的人  
+The innocent smiles of the close friends displayed their pure happiness.  
+be innocent of  
 无罪的
