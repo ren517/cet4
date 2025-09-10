@@ -1,14 +1,14 @@
 # cet4
 ## compose
 
-v. 创作，组成
-The man compose new songs on his keyboard.
-compose a song
-编曲
-compose oneself
-使自己平静下来
-compose of
-由……组成
+v. 创作，组成  
+The man compose new songs on his keyboard.  
+compose a song  
+编曲  
+compose oneself  
+使自己平静下来  
+compose of  
+由……组成  
 
 ## exception
 
