@@ -2,37 +2,44 @@
 
 ## succeed
 
-v. 成功，达到目的  
+v. 成功, 达到目的  
 I succeeded! Everyone is happy for me!  
-succeed in 取得成功  
-succeed at 在……方面成功  
+succeed in  
+取得成功  
+succeed at  
+在……方面成功
 
 ## pace
 
-n. 节奏，速度  
+n. 节奏, 速度  
 They were walking at the same pace.  
-keep pace with 跟上……的速度  
+keep pace with  
+跟上……的速度
 
 ## routine
 
 n. 常规，日常程序  
 This is the little girl’s daily routine.  
-daily routine 日程生活  
+daily routine  
+日程生活
 
 ## frame
 
 n. 画框，框架  
 v. 制定  
 The picture looks nice in this wooden frame.  
-frame structure 框架结构  
+frame structure  
+框架结构
 
 ## diet
 
 n. 饮食；节食  
 v. 节食  
 She has a healthy diet, full of fruit and vegetables.  
-go on a diet 开始节食  
-on a diet 节食  
+go on a diet  
+开始节食  
+on a diet  
+节食
 
 ## plus
 
@@ -40,15 +47,18 @@ prep. 加
 n. 加号  
 adj. 正的  
 One plus one equals two. Hopefully you knew that.  
-plus or minus 正负号  
+plus or minus  
+正负号
 
 ## action
 
-n. 行动，行为  
+n. 行动, 行为  
 v. 务必对……进行处理  
 If you want to lose weight, exercise and take action.  
-action on 对……的作用  
-out of action 停止运转  
+action on  
+对……的作用  
+out of action  
+停止运转
 
 ## stretch
 
@@ -56,60 +66,77 @@ v. 伸展，延伸
 n. 伸展，张开  
 adj. 可伸缩的  
 The cat is stretching its body.  
-stretches across 横跨  
-stretch oneself 伸展  
-at a stretch 连续地  
-on the stretch 紧张着  
+stretches across  
+横跨  
+stretch oneself  
+伸展  
+at a stretch  
+连续地  
+on the stretch  
+紧张着
 
 ## balance
 
 n. 平衡  
 v. 平衡  
 As long as the star burns, the two forces balance each other out.  
-in balance 平衡  
-in the balance 悬而未决  
-on balance 总的来说  
+in balance  
+平衡  
+in the balance  
+悬而未决  
+on balance  
+总的来说
 
 ## company
 
 n. 公司  
 I notice that the company posted a job.  
-company with 奉陪  
-in company 一起，当众  
+company with  
+奉陪  
+in company  
+一起，当众
 
 ## symbol
 
 n. 象征  
 Doves are the symbol of peace.  
-the symbol of ……的象征  
-symbol for ……的象征  
+the symbol of  
+……的象征  
+symbol for  
+……的象征
 
 ## sufficient
 
 adj. 足够的，充足的  
 The animal has sufficient food for the winter.  
-sufficient condition 充足条件  
-more than sufficient 绰绰有余  
+sufficient condition  
+充足条件  
+more than sufficient  
+绰绰有余
 
 ## enroll
 
 v. 参加，报名，入伍  
 vi. 登记  
-enroll in 报名，注册  
-enroll into 注册；入伍；入学  
+enroll in  
+报名，注册  
+enroll into  
+注册；入伍；入学
 
 ## statement
 
 n. 声明；结算单，报表  
 He is making a statement to the press.  
-financial statement 财政报表  
+financial statement  
+财政报表
 
 ## minimum
 
 n. 最低限度；最小值  
 adj. 最小的  
 Our goal is to reach the minimum of CO₂ emissions.  
-a minimum of 最低限度，最低
+a minimum of  
+最低限度，最低
 
 ## compose
 
@@ -120,7 +147,7 @@ compose a song
 compose oneself  
 使自己平静下来  
 compose of  
-由……组成  
+由……组成
 
 ## exception
 
@@ -129,7 +156,7 @@ Most of the bulidings are modern, but the quadangle is only exception.
 with the exception of  
 除了……之外  
 without exception  
-无一例外; 一律 
+无一例外; 一律
 
 ## overseas
 
@@ -166,7 +193,7 @@ The boy intends to use the monry he saved to buy a new skateboard.
 intend to do sth  
 打算做某事  
 intend to be  
-打算成为……  
+打算成为……
 
 ## characteristic
 
@@ -247,3 +274,142 @@ n. 天真无邪的人
 The innocent smiles of the close friends displayed their pure happiness.  
 be innocent of  
 无罪的
+
+## differ
+
+vi. 相异, 不同于  
+The red paper guy differs form the our color.  
+differ from  
+与……不同  
+differ in  
+在……方面有差异
+
+## decorate
+
+v. 装饰, 布置  
+The mother and doughter are decorate the Christmas tree.  
+decorate...with...  
+用……装饰
+
+## former
+
+adj.以前的; 前任的  
+n. 形成  
+The firse photograph is our former headmaster.  
+former president  
+前总统  
+former residence  
+故居
+
+## connect
+
+v. 联系, 关联  
+A red iron bridge connects two landmasses.  
+connect to  
+连接到  
+be connected by  
+由……连接
+
+## detail
+
+n. 细节; 细微之处  
+v. 详细说明  
+When the leaf is seen up close, you can see a lot of details.  
+in detail  
+详细地  
+detail data  
+详细数据
+
+## worldwide
+
+adv. 在世界各地, 遍及全球的  
+adj. 全世界的  
+The Internet connects users worldwide.  
+households worldwide  
+全球家庭
+
+## evdience
+
+n. 证据, 证明  
+v. 证明  
+He is collecting evdience at the crime scene.  
+be evdienced by  
+证明  
+evdience shows that  
+证据表明
+
+## reward
+
+n. 酬金; 奖品  
+vt. 奖励, 奖赏  
+The woman just got a great deal of chas as a reward.  
+offer a reward  
+提供奖励  
+reward systems  
+奖励系统
+
+## grip
+
+n. 握紧, 握力  
+v. 握紧  
+You'd better not lose you grip on the rock for your safety.  
+in the grip of  
+受……控制  
+grip strength  
+握力
+
+## stuff
+
+n. 东西, 材料  
+v. 塞进  
+We keep all of the baby's stuff in his bedroom.  
+stuff……with……  
+用……装填  
+food stuff  
+食品类的东西
+
+## insert
+
+v. 插入  
+n. 插入物  
+He inserts his card into the machine.  
+insert into  
+插入
+
+## highlight
+
+v. 突出  
+n. 最精彩的部分  
+You should highlight all the most important parts of the text.  
+the hightlight of  
+……中最精彩的部分  
+highlight in  
+用……突出显示
+
+## adundant
+
+adj. 大量的  
+This garden has an abundant amount of flowers.  
+be abunant in  
+富于; 丰富的
+
+## deliver
+
+v. 递送, 交付, 发表  
+The man delivers the packages to the woman.  
+deliver a speech  
+发表演讲  
+deliver goods  
+交付货物  
+deliver up  
+交出, 放弃  
+deliver from  
+从……释放出来
+
+## consume
+
+v. 吃, 喝, 消费  
+The food blogger consumes a lot of food at one meal.  
+consume away  
+消耗掉  
+propensity to consume
