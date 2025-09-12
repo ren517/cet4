@@ -413,3 +413,138 @@ The food blogger consumes a lot of food at one meal.
 consume away  
 消耗掉  
 propensity to consume
+
+## beam
+
+n. 光线; 波束  
+v. 发光, 照射  
+A sun beam reaches down through the clouds.  
+beam bridge  
+梁桥  
+leaser beam  
+激光束
+
+## reliable
+
+adj. 可靠的, 可信的  
+n. 可靠的人  
+My mobile phone is very reliable.  
+reliable evdience  
+真实可靠的证据  
+reliable source  
+可靠来源
+
+## contract
+
+n. 合同, 契约  
+v. 感染, 收缩  
+I signed the contract and bought the house.  
+contract with  
+与……签约合同  
+labor contract  
+劳工合同  
+breach of contract  
+违约
+
+## convince
+
+v. 使信服  
+She tries to convince them that the plan will work.  
+convince sb. of sth  
+使某人信服某事
+
+## maintain
+
+v. 保持, 维护, 维修  
+It's so hard to maintain this position for a long time!  
+maintain order  
+维持秩序  
+maintain price  
+维持原价
+
+## exhibit
+
+v. 展览, 陈列  
+n. 展览会  
+Some of Piasso's paintings are being exhibited.  
+on exhibit  
+在展览中
+
+## vehicle
+
+n. 车辆  
+The cehicle drove off with a container.
+motor vehicle  
+机动车  
+vehicle maintain
+汽车维修
+
+## minor
+
+adj. 较小的; 轻微的  
+n. 辅修科目  
+It was just a minor injury.
+minor in  
+辅修  
+minor subject  
+辅修科目
+
+## panel
+
+n. 面板; 讨论小组  
+v. 镶嵌  
+The technician is operating the control panel.  
+solar panels  
+太阳能板
+
+## potential
+
+adj. 潜在的, 可能的  
+n. 潜力, 潜能  
+The naked wires could be a potential problem.  
+potential employer  
+潜在雇主  
+potential risk  
+潜在风险  
+
+## consult
+
+v. 咨询; 请教  
+The couple are consulting the advisor for help.  
+consult a doctor  
+咨询医生  
+consult with  
+协商, 商量
+
+## insult
+
+n. 侮辱的言辞或行为  
+v. 侮辱  
+It's an insult to point directly at others.  
+add insult to injury  
+越描越黑; 雪上加霜  
+
+## campus
+
+n. 校区  
+On our campus, we can just sit on the lawn ro do our group work.  
+on campus  
+在校园  
+campus life  
+校园生活
+
+## determine
+
+v. 决定, 支配  
+You have a right to determine your own career.  
+determine to do sth.  
+决定做某事  
+determine by  
+视……而定
+
+## assemble
+
+v. 集合; 组装  
+The family assembled in the living room for a family photo.  
+assemble line  
+装配线
